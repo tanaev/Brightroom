@@ -77,8 +77,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/tanaev/swift-verge",
       "state" : {
-        "branch" : "main",
-        "revision" : "7b4ed4309d586cf29ffaedfbf64c2615b0ff0aa3"
+        "revision" : "7b4ed4309d586cf29ffaedfbf64c2615b0ff0aa3",
+        "version" : "14.1.3"
       }
     },
     {
